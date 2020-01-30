@@ -1,0 +1,6 @@
+name: "elementary"
+displayName: "[Green]Elementary"
+author: "GingerWolf"
+description: "A mod that adds more elements"
+version: "1.0"
+minGameVersion: "103"
