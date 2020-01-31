@@ -1,1 +1,26 @@
-
+type: GenericSmelter
+name: Induction Smelter
+description: Alloys Iron with Carbon (In the form of coal) to make steel
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      iron/2
+      coal/1
+    ]
+  }
+requirements: [
+  lead/50
+  iron/30
+  silicon/60
+  copper/50
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: steel/2
