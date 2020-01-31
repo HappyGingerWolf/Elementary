@@ -1,0 +1,27 @@
+type: GenericSmelter
+name: Lithium Filterer
+description: Filters trace amounts of lithium out of water.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  liquid: {
+    liquid: water
+    amount: 10
+  }
+}
+requirements: [
+  copper/50
+  titanium/80
+  silicon/60
+  steel/100
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: lithium/1
