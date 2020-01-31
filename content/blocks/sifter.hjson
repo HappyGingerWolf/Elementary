@@ -4,6 +4,7 @@ description: Sifts large amounts of sand to produce titanium and bismuth.
 size: 2
 hasPower: true
 hasItems: true
+itemCapacity: 50
 craftTime: 60
 updateEffect: smeltsmoke
 consumes: {
