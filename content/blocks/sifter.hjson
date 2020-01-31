@@ -13,6 +13,7 @@ consumes: {
       sand/50
     ]
   }
+}
   requirements: [
   lead/50
   silicon/80
@@ -26,4 +27,3 @@ outputItem: [
   titanium/3
   bismuth/1
  ]
- }
