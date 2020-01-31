@@ -11,7 +11,7 @@ consumes: {
   items: {
     items: [
       iron/2
-      coal/1
+      
     ]
   }
 requirements: [
