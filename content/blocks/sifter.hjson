@@ -22,4 +22,7 @@ consumes: {
 category: crafting
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: titanium/3
+outputItem: [
+  titanium/3
+  bismuth/1
+ ]
