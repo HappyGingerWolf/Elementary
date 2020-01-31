@@ -1,0 +1,25 @@
+type: GenericSmelter
+name: Sifter
+description: Sifts large amounts of sand to produce titanium and bismuth.
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      sand/50
+    ]
+  }
+  requirements: [
+  lead/50
+  silicon/80
+  iron/60
+  copper/50
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: titanium/3
