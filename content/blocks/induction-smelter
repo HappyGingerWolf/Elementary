@@ -2,6 +2,7 @@ type: GenericSmelter
 name: Induction Smelter
 description: Alloys Iron with Carbon (In the form of coal) to make steel
 size: 2
+buildVisibility: shown
 hasPower: true
 hasItems: true
 craftTime: 60
