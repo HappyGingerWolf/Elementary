@@ -1,4 +1,4 @@
-type: GenericSmelter
+type: Separator
 name: Sifter
 description: Sifts large amounts of sand to produce titanium and bismuth.
 size: 2
@@ -24,4 +24,8 @@ consumes: {
 category: crafting
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: bismuth/1
+results: [
+    item: iron/3
+    item: titanium/3
+    item: bismuth/1
+]
