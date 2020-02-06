@@ -1,4 +1,5 @@
 type: material
+itemType: Resource
 name: Bismuth
 description: A weak but slightly radioactive material.
 cost: 1
