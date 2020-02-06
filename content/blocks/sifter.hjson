@@ -1,6 +1,6 @@
 type: Separator
 name: Sifter
-description: Sifts large amounts of sand to produce titanium and bismuth.
+description: Sifts large amounts of sand to produce iron, titanium and bismuth.
 size: 2
 hasPower: true
 hasItems: true
@@ -18,8 +18,8 @@ consumes: {
   requirements: [
   lead/50
   silicon/80
-  iron/60
-  copper/50
+  copper/60
+  titanium/50
 ]
 category: crafting
 idleSound: respawning
