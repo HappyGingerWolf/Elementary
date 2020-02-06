@@ -25,7 +25,7 @@ category: crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 results: [
-    item: iron/3
+    item: copper/3
     item: titanium/3
     item: bismuth/1
 ]
