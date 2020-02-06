@@ -17,7 +17,7 @@ consumes: {
 }
 requirements: [
   lead/50
-  iron/80
+  steel/80
   silicon/20
 ]
 category: crafting
