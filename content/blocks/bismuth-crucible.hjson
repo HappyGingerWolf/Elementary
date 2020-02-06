@@ -1,0 +1,25 @@
+type: GenericCrafter
+name: "Bismuth Crucible"
+description: "Melts bismuth down in preparation for irradiation."
+liquidCapacity: 50
+outputLiquid: {
+  liquid: molten-bismuth
+  amount: 7
+}
+size: 2
+hasPower: true
+hasLiquids: true
+craftTime: 10
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.6
+  item: bismuth
+}
+requirements: [
+  lead/50
+  iron/80
+  silicon/20
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
