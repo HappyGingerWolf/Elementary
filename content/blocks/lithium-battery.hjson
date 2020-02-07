@@ -4,7 +4,9 @@ description: A lithium ion battery, very efficient but also can explode.
 size: 4
 hasPower: true
 baseExplosiveness: 0.5
-capacity: 1000
+consumes: {
+  powerBuffered: 5000
+}
 requirements: [
   copper/80
   steel/100
