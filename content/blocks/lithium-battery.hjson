@@ -9,5 +9,6 @@ requirements: [
   copper/80
   steel/100
   lithium/50
+  surge-alloy/20
 ]
 category: power
