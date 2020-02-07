@@ -1,4 +1,4 @@
-type: GenericSmelter
+type: GenericCrafter
 name: Lithium Filterer
 description: Filters trace amounts of lithium out of water.
 liquidCapacity: 50
