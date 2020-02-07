@@ -1,25 +1,25 @@
 type: Separator
 name: Sifter
-description: Sifts large amounts of sand to produce iron, titanium and bismuth.
+description: Sifts large amounts of muddy water to produce iron, titanium and bismuth.
 size: 2
 hasPower: true
 hasItems: true
-itemCapacity: 50
+hasLiquids: true
+itemCapacity: 20
+liquidCapacity 50
 craftTime: 60
 updateEffect: smeltsmoke
 consumes: {
   power: 0.7
-  items: {
-    items: [
-      sand/50
-    ]
+  liquid: {
+    liquid: muddy-water
+    amount: 25
   }
 }
   requirements: [
   lead/50
   silicon/80
   copper/60
-  titanium/50
 ]
 category: crafting
 idleSound: respawning
