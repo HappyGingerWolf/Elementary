@@ -17,9 +17,9 @@ consumes: {
   }
 }
   requirements: [
+  copper/60
   lead/50
   silicon/80
-  copper/60
 ]
 category: crafting
 idleSound: respawning
