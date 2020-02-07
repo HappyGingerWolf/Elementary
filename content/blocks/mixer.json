@@ -1,0 +1,32 @@
+type: GenericSmelter
+name: Mixer
+description: Mixes water and sand
+liquidCapacity: 50
+outputLiquid: {
+  liquid: muddy-water
+  amount: 1
+}
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      sand/2
+    ]
+  }
+  liquid: {
+    liquid: water
+    amount: 1
+  }
+}
+requirements: [
+  lead/50
+  copper/50
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
