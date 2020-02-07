@@ -1,0 +1,13 @@
+type: Battery
+name: Lithium Battery
+description: A lithium ion battery, very efficient but also can explode.
+size: 4
+hasPower: true
+baseExplosiveness: 0.5
+capacity: 1000
+requirements: [
+  copper/80
+  steel/100
+  lithium/50
+]
+category: power
