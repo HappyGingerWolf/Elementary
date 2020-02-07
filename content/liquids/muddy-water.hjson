@@ -1,0 +1,6 @@
+name: Muddy Water
+description: Sand suspended in water
+temperature: 0.5
+viscosity: 0.5
+effect: none
+color: a9844f
