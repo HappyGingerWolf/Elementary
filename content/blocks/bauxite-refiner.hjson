@@ -1,0 +1,26 @@
+type: GenericSmelter
+name: Bauxite Refiner
+description: Refines bauxite into aluminium.
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 5
+  items: {
+    items: [
+      bauxite/4
+    ]
+  }
+}
+requirements: [
+  copper/50
+  silicon/50
+  titanium/40
+  steel/80
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: aluminium/1
