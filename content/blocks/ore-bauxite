@@ -1,0 +1,3 @@
+type: OreBlock
+itemDrop: bauxite
+oreDefault: true
