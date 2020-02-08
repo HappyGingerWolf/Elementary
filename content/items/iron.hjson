@@ -1,6 +1,5 @@
 type: material
 name: Iron
 description: A strong metal used for construction
-cost: 1
 hardness: 1
 color: FFDB58
