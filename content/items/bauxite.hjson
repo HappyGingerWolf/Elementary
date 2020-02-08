@@ -1,0 +1,5 @@
+type: resource
+name: Bauxite
+description: Ground bauxite, an aluminiumm ore.
+hardness: 3
+color: A52A2A
