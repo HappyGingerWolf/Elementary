@@ -1,5 +1,5 @@
 type: resource
 name: Bismuth
 description: A weak but slightly radioactive material.
-cost: 1
+radioactivity: 0.3
 color: 7E481C
