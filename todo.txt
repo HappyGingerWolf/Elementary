@@ -1,9 +1,8 @@
 Things to do:
-Add steel walls (maybe aluminium + iron?).
 Change air drones + phantoms to require aluminium.
 Add bronze + bronze alloyer (4 copper + 1 aluminium = 4 bronze).
 Make turrets use bronze (artillery? basics? all?).
 Make turrets require steel (or iron for low tier).
-Give lithium additional uses (Li + Al for walls? making cryo?).
+Give lithium additional uses (making cryo?).
 Make all projectors + vault + command center require steel.
 Add more elements + associated alloys! (Tungsten? Silver? Gold? Uranium?)
