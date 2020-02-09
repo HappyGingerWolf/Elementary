@@ -1,6 +1,6 @@
 type: GenericSmelter
-name: "Bismuth Crucible"
-description: "Melts bismuth down in preparation for irradiation."
+name: Bismuth Crucible
+description: Melts bismuth down in preparation for irradiation.
 liquidCapacity: 50
 outputLiquid: {
   liquid: molten-bismuth
