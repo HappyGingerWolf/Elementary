@@ -1,0 +1,10 @@
+name: Large Aluminium Wall
+description: A larger wall made of aluminium. Can be larger than other walls because of the lightweight material.
+type: Wall
+health: 1600
+size: 2
+requirements: [
+  aluminium/24
+  lithium/4
+]
+category: defense
