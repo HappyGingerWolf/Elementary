@@ -1,5 +1,5 @@
 name: Steel Wall
-description: A wall made of steel. Not particularly useful or interesting.
+description: A wall made of steel.
 type: Wall
 health: 150
 size: 1
