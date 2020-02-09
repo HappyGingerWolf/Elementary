@@ -1,0 +1,9 @@
+name: Steel Wall
+description: A wall made of steel. Not particularly useful or interesting.
+type: Wall
+health: 150
+size: 1
+requirements: [
+  steel/6
+]
+category: defense
