@@ -1,4 +1,5 @@
 Things to do:
+Fix whatever is up with the sprites
 Change air drones + phantoms to require aluminium.
 Add bronze + bronze alloyer (4 copper + 1 aluminium = 4 bronze).
 Make turrets use bronze (artillery? basics? all?).
