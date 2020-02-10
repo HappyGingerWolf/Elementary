@@ -1,6 +1,5 @@
 name: Ghoul Factory
 description: Makes Ghoul units.
-type: UnitFactory
 unitType: ghoul
 size: 3
 produceTime: 1150
