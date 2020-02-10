@@ -25,8 +25,8 @@ consumes: {
 }
 requirements: [
   copper/50
-  lead/50
   metaglass/20
+  iron/50
 ]
 category: crafting
 idleSound: respawning
