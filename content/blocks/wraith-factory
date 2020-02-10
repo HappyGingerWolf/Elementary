@@ -1,0 +1,22 @@
+name: Wraith Factory
+description: Makes Wraith units.
+type: UnitFactory
+unitType: wraith
+size: 2
+produceTime: 700
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      silicon/10
+      aluminium/5
+    ]
+  }
+}
+category: units
+research: wraith-factory
+requirements: [
+  lead/40
+  titanium/30
+  silicon/45
+]
