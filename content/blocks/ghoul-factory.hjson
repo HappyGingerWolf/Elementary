@@ -1,0 +1,21 @@
+name: Ghoul Factory
+description: Makes Ghoul units.
+type: UnitFactory
+unitType: ghoul
+size: 3
+produceTime: 1150
+consumes: {
+  power: 1.2
+  items: {
+    items: [
+      silicon/15
+      aluminium/10
+    ]
+  }
+}
+category: units
+requirements: [
+  lead/65
+  silicon/110
+  steel/75
+]
