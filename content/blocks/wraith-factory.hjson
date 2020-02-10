@@ -1,5 +1,5 @@
 name: Wraith Factory
-description: Makes Wraith units.
+description: Produces fast, hit-and-run interceptor units.
 unitType: wraith
 size: 2
 produceTime: 700
