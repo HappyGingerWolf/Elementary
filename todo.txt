@@ -11,5 +11,6 @@ Make turrets require steel (or iron for low tier).
 V0.6:
 Give lithium additional uses (making cryo?).
 Make all projectors + vault + command center require steel.
+Make some drills require steel (Laser + Blast?) and laser drill require aluminium.
 V1.0+:
 Add more elements + associated alloys! (Tungsten? Silver? Gold? Uranium?)
