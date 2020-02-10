@@ -1,5 +1,5 @@
 name: Revenant Factory
-description: Makes Revenant units.
+description: Produces heavy missile-based units.
 unitType: revenant
 size: 4
 produceTime: 2000
