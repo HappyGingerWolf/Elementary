@@ -1,6 +1,5 @@
 name: Wraith Factory
 description: Makes Wraith units.
-type: UnitFactory
 unitType: wraith
 size: 2
 produceTime: 700
