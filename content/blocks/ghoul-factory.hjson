@@ -1,5 +1,5 @@
 name: Ghoul Factory
-description: Makes Ghoul units.
+description: Produces heavy carpet bombers.
 unitType: ghoul
 size: 3
 produceTime: 1150
