@@ -1,6 +1,5 @@
 name: Revenant Factory
 description: Makes Revenant units.
-type: UnitFactory
 unitType: revenant
 size: 4
 produceTime: 2000
