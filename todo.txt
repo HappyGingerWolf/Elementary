@@ -4,8 +4,9 @@ Fix whatever is up with the sprites.
 Updates:
 Change builders to require aluminium.
 Add bronze + bronze alloyer (4 copper + 1 aluminium = 4 bronze).
-Make turrets use bronze (artillery? basics? all?).
+Make turrets use bronze ammo (artillery? basics? all?).
 Make turrets require steel (or iron for low tier).
 Give lithium additional uses (making cryo?).
 Make all projectors + vault + command center require steel.
+Bring the mod to V1.0 and officially release.
 Add more elements + associated alloys! (Tungsten? Silver? Gold? Uranium?)
