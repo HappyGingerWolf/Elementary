@@ -1,0 +1,23 @@
+name: Phantom Factory
+description: Produces advanced construction drones.
+unitType: phantom
+size: 2
+produceTime: 4400
+maxSpawn: 1
+consumes: {
+  power: 2.5
+  items: {
+    items: [
+      lead/30
+      silicon/50
+      aluminium/20
+    ]
+  }
+}
+category: units
+requirements: [
+  lead/65
+  silicon/105
+  thorium/60
+  steel/50
+]
