@@ -1,0 +1,26 @@
+type: GenericSmelter
+name: Bronze Alloyer
+description: Alloys Copper and Aluminium to make Bronze
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 1
+  items: {
+    items: [
+      copper/4
+      aluminium/1
+    ]
+  }
+}
+requirements: [
+  copper/40
+  lead/60
+  steel/30
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: bronze/5
