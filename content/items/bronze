@@ -1,0 +1,4 @@
+type: resource
+name: Bronze
+description: An alloy of copper and aluminium, useful for ammunition.
+color: E7C501
