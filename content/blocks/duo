@@ -12,7 +12,7 @@ ammo: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 2
-    backColor: ba9e1
-    frontColor: dcd16b
+    backColor: BA9E01
+    frontColor: E7C501
   }
 }
