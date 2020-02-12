@@ -1,0 +1,19 @@
+ammo: {
+  copper: standardCopper
+  graphite: standardDense
+  pyratite: standardIncendiary
+  silicon: standardHoming
+  thorium: standardThorium
+  
+  bronze: {
+    speed: 2.5
+    damage: 12
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 2
+    backColor: BA9E01
+    frontColor: E7C501
+  }
+}
