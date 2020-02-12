@@ -17,3 +17,9 @@ ammo: {
     frontColor: E7C501
   }
 }
+requirements: [
+  copper/105
+  graphite/95
+  titanium/60
+  steel/40
+]
