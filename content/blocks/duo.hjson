@@ -6,7 +6,7 @@ ammo: {
   
   bronze: {
     speed: 2.5
-    damage: 30
+    damage: 12
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
