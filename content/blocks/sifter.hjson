@@ -8,7 +8,6 @@ hasLiquids: true
 itemCapacity: 20
 liquidCapacity: 50
 craftTime: 60
-updateEffect: smeltsmoke
 consumes: {
   power: 0.7
   liquid: {
