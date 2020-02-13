@@ -5,6 +5,7 @@ speed: 0.5
 minePower: 3
 speed: 0.3
 flying: true
+range: 50
 drag: 0.01
 engineSize: 1.8
 engineOffset: 5.7
