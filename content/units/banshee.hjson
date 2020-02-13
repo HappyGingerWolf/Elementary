@@ -10,3 +10,7 @@ engineSize: 1.8
 engineOffset: 5.7
 maxVelocity: 1.2
 health: 500
+weapon: {
+  name: zappy-zap
+  bullet: lightning
+}
