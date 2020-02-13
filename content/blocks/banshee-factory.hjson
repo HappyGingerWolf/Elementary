@@ -1,0 +1,25 @@
+name: Banshee Factory
+description: Produces Banshee mining units.
+type: UnitFactory
+unitType: banshee
+size: 2
+produceTime: 5000
+maxSpawn: 1
+consumes: {
+  power: 2
+  items: {
+    items: [
+      silicon/50
+      bronze/60
+      aluminium/20
+    ]
+  }
+}
+category: units
+requirements: [
+  copper/70
+  titanium/40
+  silicon/120
+  plastnium/40
+  steel/100
+]
