@@ -1,0 +1,12 @@
+type: minerDrone
+name: Banshee
+description: An advanced mining drone. Expensive to make. Automatically mines a variety of ores and delivers the resources to the core.
+speed: 0.5
+minePower: 3
+speed: 0.3
+flying: true
+drag: 0.01
+engineSize: 1.8
+engineOffset: 5.7
+maxVelocity: 1.2
+health: 500
