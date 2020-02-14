@@ -5,10 +5,14 @@ ammo: {
     oil: oilShot
     
     muddy-water: {
-      knockback: 0.7
+        type: LiquidBulletType
+        damage: 0
+        knockback: 0.7
     }
     molten-bismuth: {
-      damage: 6
-      drag: 0.03
+        type: LiquidBulletType
+        damage: 6
+        knockback: 0.7
+        drag: 0.03
     }
 }
