@@ -1,8 +1,8 @@
 ammo: {
-    water, waterShot
-    slag, slagShot
-    cryofluid, cryoShot
-    oil, oilShot
+    water: waterShot
+    slag: slagShot
+    cryofluid: cryoShot
+    oil: oilShot
     
     muddy-water: {
       knockback: 0.7
