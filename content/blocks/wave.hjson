@@ -1,0 +1,14 @@
+ammo: {
+    water, waterShot
+    slag, slagShot
+    cryofluid, cryoShot
+    oil, oilShot
+    
+    muddy-water: {
+      knockback: 0.7
+    }
+    molten-bismuth: {
+      damage: 6
+      drag: 0.03
+    }
+}
