@@ -12,7 +12,7 @@ ammo: {
     }
     molten-bismuth: {
         type: LiquidBulletType
-        liquid: muddy-water
+        liquid: molten-bismuth
         damage: 6
         knockback: 0.7
         drag: 0.03
