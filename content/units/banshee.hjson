@@ -4,7 +4,7 @@ description: An advanced mining drone. Expensive to make. Automatically mines a 
 speed: 0.5
 mineSpeed: 2
 drillPower: 3
-speed: 0.3
+speed: 0.4
 flying: true
 range: 50
 drag: 0.01
