@@ -5,6 +5,7 @@ speed: 0.5
 minePower: 2
 speed: 0.4
 flying: true
+drawItems: true
 range: 50
 drag: 0.01
 engineSize: 1.8
