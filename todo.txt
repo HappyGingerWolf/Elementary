@@ -10,7 +10,7 @@ Add Bronze drones (Attack? Mobile heal point? Overdrive? Miner?)
 Make waves use muddy water and molten bismuth.
 V0.6:
 Update older sprites (In paticular induction smelter and bismuth).
-Give lithium additional uses (making cryo?).
+Give lithium additional uses (coolant?).
 Make all projectors + vault + command center require steel.
 Make some drills require steel (Laser + Blast?) and laser drill require aluminium.
 V1.0+:
