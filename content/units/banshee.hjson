@@ -11,6 +11,7 @@ engineSize: 1.8
 engineOffset: 5.7
 maxVelocity: 1.2
 health: 500
+toMine: [copper, lead, iron, titanium]
 weapon: {
   name: zappy-zap
   bullet: lightning
