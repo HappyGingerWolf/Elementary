@@ -13,6 +13,7 @@ Update older sprites (In paticular induction smelter and bismuth).
 Give lithium additional uses (coolant?).
 Make all projectors + vault + command center require steel.
 Make some drills require steel (Laser + Blast?) and laser drill require aluminium.
+Add new distribution blocks (Directional router?)
 V1.0+:
 Balance build and power costs for all new blocks.
 Add blocks to the research tree.
