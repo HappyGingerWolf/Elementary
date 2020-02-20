@@ -1,7 +1,6 @@
 Things to do:
 Fixes:
 Fix whatever is up with the sprites.
-Make the README.
 Updates:
 V0.5:
 Add bronze + bronze alloyer (4 copper + 1 aluminium = 4 bronze).
@@ -18,6 +17,7 @@ Make all projectors + vault + command center require steel.
 Make some drills require steel (Laser + Blast?) and laser drill require aluminium.
 V1.0:
 Balance build and power costs for all new blocks.
+Make the README.
 Add blocks to the research tree.
 V1.0+:
 Add more elements + associated alloys! (Tungsten? Silver? Gold? Uranium? Oil types? Diamond?).
