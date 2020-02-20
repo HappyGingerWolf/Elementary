@@ -1,6 +1,7 @@
 Things to do:
 Fixes:
 Fix whatever is up with the sprites.
+Make the README.
 Updates:
 V0.5:
 Add bronze + bronze alloyer (4 copper + 1 aluminium = 4 bronze).
@@ -13,8 +14,9 @@ Update older sprites (In paticular induction smelter and bismuth).
 Give lithium additional uses (coolant?).
 Make all projectors + vault + command center require steel.
 Make some drills require steel (Laser + Blast?) and laser drill require aluminium.
-Add new distribution blocks (Directional router?)
-V1.0+:
+V1.0:
 Balance build and power costs for all new blocks.
 Add blocks to the research tree.
+V1.0+:
 Add more elements + associated alloys! (Tungsten? Silver? Gold? Uranium? Oil types? Diamond?).
+Add new distribution blocks (Directional router? Overflowing sorter? Sorter-Distributor?).
