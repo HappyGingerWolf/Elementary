@@ -1,0 +1,6 @@
+requirements: [
+  graphite/30
+  silicon/30
+  titanium/20
+  steel/35
+]
