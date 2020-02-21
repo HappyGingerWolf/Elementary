@@ -1,0 +1,31 @@
+type: ItemTurret
+name: Glare
+description: A larger version of the shine turret, has huge range.
+health: 1200
+size: 2
+reload: 180
+range: 360
+ammoUseEffect: shellEjectSmall
+inaccuracy: 1
+rotatespeed: 10
+ammo: {
+  copper: standardCopper
+  bronze: {
+    speed: 2.5
+    damage: 12
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 2
+    backColor: BA9E01
+    frontColor: E7C501
+  }
+}
+requirements: [
+  titanium/120
+  silicon/50
+  thorium/40
+  steel/160
+]
+category: turret
