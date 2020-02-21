@@ -18,16 +18,22 @@ New things:
 
 Iron:
 - Similar to copper, used for some construction.
+
 Steel:
 - A strong alloy used in the construction of many blocks.
+
 Lithium:
 - A reactive weak metal used for batteries and making coolant.
+
 Bismuth:
 - A slightly radioactive material that can be turned into thorium.
+
 Bauxite:
 - An ore of aluminium, but be refined before it is useful.
+
 Aluminium:
 - A lightweight metal used for aerial drones and for larger walls.
+
 Bronze:
 - An alloy which can be used as ammo, or to make special drones.
 
@@ -35,6 +41,7 @@ Bronze:
 
 Molten Bismuth:
 - Bismuth that's been heated to high temperatures.
+
 Muddy Water:
 - Sand suspended in water.
 
