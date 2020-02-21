@@ -10,6 +10,7 @@ inaccuracy: 1
 rotatespeed: 10
 ammo: {
   copper: standardCopper
+  thorium: standardThorium
   bronze: {
     speed: 2.5
     damage: 12
