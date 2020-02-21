@@ -1,0 +1,12 @@
+name: Small Drill
+description: A smaller drill, capable of mining titanium. Mines at a speed similar to a pneumatic drill.
+type: Drill
+size: 1
+tier: 3
+drawMineItem: true
+requirements: [
+  titanium/6
+  silicon/5
+  steel/10
+]
+category: production
