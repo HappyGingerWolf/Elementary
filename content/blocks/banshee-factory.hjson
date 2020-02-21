@@ -5,6 +5,7 @@ unitType: banshee
 size: 2
 produceTime: 5000
 maxSpawn: 1
+minePower: 1.2
 consumes: {
   power: 2
   items: {
