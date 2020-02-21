@@ -14,6 +14,7 @@ Give lithium additional uses (coolant?).
 Add new turrets.
 Add a new power generator.
 Make all projectors + vault + command center require steel.
+Add a small drill (Steel, Titanium, Silicon)
 Make some drills require steel (Laser + Blast?) and laser drill require aluminium.
 V1.0:
 Balance build and power costs for all new blocks.
