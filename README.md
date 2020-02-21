@@ -119,5 +119,5 @@ Several other blocks have also been modified to require steel to build.
 ## Modified Units
 
 Draug:
--Will now mine copper, lead, and titanium.
+- Will now mine copper, lead, and titanium.
 
