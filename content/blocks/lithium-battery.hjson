@@ -5,7 +5,7 @@ size: 4
 hasPower: true
 baseExplosiveness: 0.5
 consumes: {
-  powerBuffered: 200000
+  powerBuffered: 100000
 }
 requirements: [
   copper/80
