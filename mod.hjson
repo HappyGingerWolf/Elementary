@@ -1,6 +1,6 @@
 name: "elementary"
 displayName: "[green]Elementary"
 author: "GingerWolf"
-description: "A mod that adds more elements."
-version: "0.5"
+description: "A mod that adds more elements including iron, aluminium, lithium, and more!"
+version: "0.6"
 minGameVersion: "103"

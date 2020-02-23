@@ -1,0 +1,7 @@
+requirements: [
+  copper/100
+  lead/150
+  silicon/250
+  graphite/100
+  steel/150
+]

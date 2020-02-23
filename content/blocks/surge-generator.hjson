@@ -1,0 +1,22 @@
+type: SingleTypeGenerator
+name: "Surge Generator"
+description: "Generates significant amounts of power from surge alloy."
+size: 3
+health: 800
+itemDuration: 120
+powerProduction: 10
+consumes: {
+  items: {
+    items: [
+      surge-alloy/1
+    ]
+  }
+}
+requirements: [
+  copper/200
+  silicon/250
+  titanium/100
+  thorium/50
+  steel/400
+]
+category: power
