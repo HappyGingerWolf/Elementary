@@ -12,7 +12,7 @@ consumes: {
   power: 0.7
   liquid: {
     liquid: muddy-water
-    amount: 0.4
+    amount: 0.2
   }
 }
   requirements: [
