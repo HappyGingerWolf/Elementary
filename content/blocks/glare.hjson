@@ -9,11 +9,20 @@ ammoUseEffect: shellEjectSmall
 inaccuracy: 1
 rotatespeed: 10
 ammo: {
-  copper: standardCopper
-  thorium: standardThorium
+  copper: {
+    speed: 5
+    damage: 9
+    lifetime: 120
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 2
+  }
   bronze: {
-    speed: 2.5
+    speed: 5
     damage: 12
+    lifetime: 120
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
@@ -21,6 +30,16 @@ ammo: {
     ammoMultiplier: 2
     backColor: BA9E01
     frontColor: E7C501
+   }
+   thorium: {
+    speed: 8
+    damage: 29
+    lifetime: 120
+    bulletWidth: 10
+    bulletHeight: 13
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
+    ammoMultiplier: 4
   }
 }
 requirements: [
