@@ -5,6 +5,7 @@ consumes: {
       titanium/1
       lithium/1
     ]
+  }
   liquid: {
     liquid: water
     amount: 0.2
