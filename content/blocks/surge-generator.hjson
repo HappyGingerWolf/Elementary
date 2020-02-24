@@ -4,7 +4,7 @@ description: "Generates significant amounts of power from surge alloy."
 size: 3
 health: 800
 itemDuration: 120
-powerProduction: 20
+powerProduction: 10
 consumes: {
   items: {
     items: [
