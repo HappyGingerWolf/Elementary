@@ -1,5 +1,6 @@
 name: Muddy Water
 description: Sand suspended in water
+heatCapacity: 0.4
 temperature: 0.5
 viscosity: 0.5
 effect: wet
