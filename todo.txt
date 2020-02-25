@@ -14,8 +14,20 @@ Give lithium additional uses (coolant?).
 Add new turrets.
 Add a new power generator.
 Make all projectors + vault + command center require steel.
-Add a small drill (Steel, Titanium, Silicon)
+Add a small drill (Steel, Titanium, Silicon).
 Make some drills require steel (Laser + Blast?) and laser drill require aluminium.
+V0.7:
+Add plastic. (Material or resource?)
+Add plasteel.
+Add petroleum.
+Modify plastanium compressor (Use plastic).
+Add plasteel compressor (Plastic + Steel).
+Add a fractioning column (Petroleum to Oil).
+Add plasteel mech.
+Add at least one map (Ancient Caldera?).
+Add petroleum generator (Comparable to equivalent amount of coal in steam).
+Change oil extractor to petroleum extractor.
+Change oil tiles to petroleum.
 V1.0:
 Balance build and power costs for all new blocks.
 Make the README.
