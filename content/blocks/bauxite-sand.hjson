@@ -1,7 +1,5 @@
-//type: floor
-//name: Bauxite Sand
+type: floor
+name: Bauxite Sand
 itemDrop: bauxite
-//variants: 3
-//playerUnmineable: true
-type: OreBlock
-oreDefault: true
+variants: 3
+playerUnmineable: true
