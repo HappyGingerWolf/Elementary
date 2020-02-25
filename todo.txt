@@ -2,20 +2,6 @@ Things to do:
 Fixes:
 Fix whatever is up with the sprites.
 Updates:
-V0.5:
-Add bronze + bronze alloyer (4 copper + 1 aluminium = 4 bronze).
-Make turrets use bronze ammo (artillery? basics? all?).
-Make turrets require steel (or iron for low tier).
-Add Bronze drones (Attack? Mobile heal point? Overdrive? Miner?)
-Make waves use muddy water and molten bismuth.
-V0.6:
-Update older sprites (In paticular induction smelter and bismuth).
-Give lithium additional uses (coolant?).
-Add new turrets.
-Add a new power generator.
-Make all projectors + vault + command center require steel.
-Add a small drill (Steel, Titanium, Silicon).
-Make some drills require steel (Laser + Blast?) and laser drill require aluminium.
 V0.7:
 Add plastic. (Material or resource?)
 Add plasteel.
