@@ -12,7 +12,7 @@ New things:
 - Cryofluid Makers now use lithium also.
 - Several build costs have been modified.
 
-## All feautures added by this mod
+## All features added by this mod
 
 ### Items:
 
