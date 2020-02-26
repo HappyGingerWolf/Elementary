@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Oil Fractioner
-description: A fractioning column
+description: A fractioning column, separates natural gas and oil out of petroleum.
 liquidCapacity: 50
 outputLiquid: {
   liquid: oil
