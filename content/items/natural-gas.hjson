@@ -1,0 +1,6 @@
+type: resource
+name: Natural Gas
+description: A canister of methane gas.
+flammability: 0.8
+explosiveness: 0.8
+color: ff7f27
