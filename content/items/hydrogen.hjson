@@ -1,0 +1,6 @@
+type: resource
+name: Hydrogen
+description: A canister of hydrogen gas.
+flammability: 0.4
+explosiveness: 1.2
+color: 00a2e8
