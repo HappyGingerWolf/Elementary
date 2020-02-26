@@ -1,0 +1,4 @@
+type: resource
+name: Plastic
+description: An oil based tough material.
+color: EFEFEF
