@@ -2,6 +2,10 @@
 
 A mod for mindustry that adds more elements including iron, aluminium, lithium, and more!
 
+### Supplimentary Mods:
+
+HappyGingerWolf/Elementary-Bauxite
+
 ## Newest Update: V0.6
 
 New things:
