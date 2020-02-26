@@ -1,0 +1,8 @@
+name: Petroleum
+description: A mixture of oil and natural gas.
+flammability: 1.5
+explosiveness: 1.8
+heatCapacity: 0.7
+viscosity: 0.7
+effect: tarred
+color: 463e00
