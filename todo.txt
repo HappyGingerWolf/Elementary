@@ -6,7 +6,6 @@ V0.7:
 Add plastic. (Material or resource?)
 Add plasteel.
 Add petroleum.
-Add bitumen.
 Add natural gas.
 Add hydrogen.
 Add ammonia.
