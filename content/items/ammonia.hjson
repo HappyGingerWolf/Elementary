@@ -1,0 +1,5 @@
+type: resource
+name: Ammonia
+description: A chemical that accelerates plant growth.
+flammability: 0.6
+color: 221100
