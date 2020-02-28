@@ -16,16 +16,17 @@ Add an ammonia plant.
 Add spore hydroponics (/plantation?/farm?).
 Add an electrolyser (Water to hydrogen).
 Add plasteel mech (Fast, heal pulse).
-Add at least one map (Ancient Caldera?).
 Add petroleum generator (Comparable to equivalent amount of coal in steam).
 Change oil extractor to petroleum extractor (+ bitumen).
 Change oil tiles to petroleum.
 Change sifter to include scrap.
+Modify the build costs, (more iron, more plasteel)
 New drone?
 V1.0:
 Balance build and power costs for all new blocks.
 Make the README.
 Add blocks to the research tree.
+Add at least one map (Ancient Caldera?).
 V1.0+:
 Add more elements + associated alloys! (Tungsten? Silver? Gold? Uranium? Oil types? Diamond?).
 Add new distribution blocks (Directional router? Overflowing sorter? Sorter-Distributor?).
