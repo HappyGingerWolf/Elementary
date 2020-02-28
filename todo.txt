@@ -20,7 +20,8 @@ Add petroleum generator (Comparable to equivalent amount of coal in steam).
 Change oil extractor to petroleum extractor (+ bitumen).
 Change oil tiles to petroleum.
 Change sifter to include scrap.
-Modify the build costs, (more iron, more plasteel)
+Modify the build costs, (more iron, more plasteel, more aluminium, less steel)
+New lithium use?
 New drone?
 V1.0:
 Balance build and power costs for all new blocks.
