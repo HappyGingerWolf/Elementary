@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: Plastic Polymeriser
+description: Turns fractionned oil into plastic.
+liquidCapacity: 50
+size: 3
+hasPower: true
+hasLiquids: true
+craftTime: 30
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.8
+  liquid: {
+    liquid: oil
+    amount: 0.16666666
+  }
+}
+requirements: [
+  copper/50
+  titanium/70
+  silicon/50
+  steel/90
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: plastic/1
