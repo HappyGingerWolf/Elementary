@@ -10,6 +10,7 @@ Add natural gas.
 Add hydrogen.
 Add ammonia.
 Modify plastanium compressor (Use plastic).
+Add a polymeriser (Oil to Plastic).
 Add plasteel compressor (Plastic + Steel).
 Add a fractioning column (Petroleum to Oil + Natural gas).
 Add an ammonia plant.
