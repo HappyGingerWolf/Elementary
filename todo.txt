@@ -18,6 +18,7 @@ Add spore hydroponics (/plantation?/farm?).
 Add an electrolyser (Water to hydrogen).
 Add plasteel mech (Fast, heal pulse).
 Add petroleum generator (Comparable to equivalent amount of coal in steam).
+Add plasteel walls.
 Change oil extractor to petroleum extractor (+ bitumen).
 Change oil tiles to petroleum.
 Change sifter to include scrap.
