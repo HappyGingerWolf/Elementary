@@ -1,3 +1,10 @@
+description: Produces plastanium from plastic and titanium.
+requirements: [
+  lead/115
+  graphite/60
+  silicon/80
+  steel/80
+]
 consumes: {
   power: 0.05
   items: {
