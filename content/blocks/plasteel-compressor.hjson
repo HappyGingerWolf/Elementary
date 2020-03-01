@@ -1,0 +1,29 @@
+type: GenericSmelter
+name: Plasteel Compressor
+description: Produces plasteel from plastic and steel.
+size: 2
+health: 320
+hasPower: true
+hasItems: true
+craftTime: 60
+updateEffect: plasticburn
+craftEffect: formsmoke
+consumes: {
+  power: 0.05
+  items: {
+    items: [
+      steel/2
+      plastic/3
+    ]
+  }
+}
+requirements: [
+  lead/115
+  graphite/60
+  silicon/80
+  steel/80
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: plasteel/1
