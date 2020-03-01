@@ -1,0 +1,5 @@
+requirements: [
+  metaglass/1
+  thorium/2
+  plasteel/1
+]
