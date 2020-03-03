@@ -27,5 +27,5 @@ Balance build and power costs for all new blocks.
 Make the README.
 Add blocks to the research tree.
 V1.0+:
-Add more elements + associated alloys! (Tungsten? Silver? Gold? Uranium? Oil types? Diamond?).
+Add more elements + associated alloys! (Tungsten? Silver? Gold? Uranium? Oil types? Diamond? Carbon fibre?).
 Add new distribution blocks (Directional router? Overflowing sorter? Sorter-Distributor?).
