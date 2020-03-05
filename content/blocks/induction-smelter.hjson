@@ -1,6 +1,6 @@
 type: GenericSmelter
 name: Induction Smelter
-description: Alloys Iron with Carbon (In the form of coal) to make steel
+description: Alloys Iron with Carbon (In the form of coal) to make steel.
 size: 2
 hasPower: true
 hasItems: true
