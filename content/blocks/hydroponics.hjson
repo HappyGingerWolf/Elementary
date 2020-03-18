@@ -1,0 +1,20 @@
+type: Cultivator
+name: Hydroponics
+description: Cultivates spores in water trays into industry-ready pods.
+outputItem: {
+  liquid: sporePod
+  amount: 3
+}
+size: 4
+hasPower: true
+hasLiquids: true
+craftTime: 140
+consumes: {
+  power: 2
+  liquid: water/0.5
+}
+requirements: [
+  copper/60
+  steel/80
+  silicon/30
+]
