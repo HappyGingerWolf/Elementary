@@ -6,20 +6,15 @@ V0.7:
 Add plastic. (Material or resource?)
 Add plasteel.
 Add petroleum.
-Add bitumen.
 Add natural gas.
-Add hydrogen.
-Add ammonia.
 Modify plastanium compressor (Use plastic).
 Add plasteel compressor (Plastic + Steel).
 Add a fractioning column (Petroleum to Oil + Natural gas).
-Add an ammonia plant.
 Add spore hydroponics (/plantation?/farm?).
-Add an electrolyser (Water to hydrogen).
 Add plasteel mech (Fast, heal pulse).
 Add at least one map (Ancient Caldera?).
 Add petroleum generator (Comparable to equivalent amount of coal in steam).
-Change oil extractor to petroleum extractor (+ bitumen).
+Change oil extractor to petroleum extractor.
 Change oil tiles to petroleum.
 New drone?
 V1.0:
